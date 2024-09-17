@@ -6,3 +6,28 @@ body {
     font-family: "Montserrat", sans-serif;
     font-size: 16px;
 }
+
+
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Poiret One", sans-serif;
+    font-weight: 1000;
+    font-size: 60px;
+}
+
+/* 
+this commented out code means the same as code above
+h1 {
+    font-family: "Poiret One", sans-serif;
+    font-weight: 1000;
+    font-size: 60px;
+}
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Poiret One", sans-serif;
+    font-weight: 1000;
+    font-size: 60px;
+} */
