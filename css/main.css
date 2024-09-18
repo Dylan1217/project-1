@@ -13,7 +13,7 @@ body {
 
 hr {
     height: 4px;
-    background-color: aqua;
+    background-color: rgb(35, 33, 23);
     border: none;
 }
 
@@ -23,6 +23,21 @@ h1, h2, h3, h4, h5, h6 {
     font-family: "Poiret One", sans-serif;
     font-weight: 1000;
     font-size: 40px;
+}
+
+.section-1 {
+    background-color: cornsilk;
+    padding-top: 6px;
+}
+
+.section-3 {
+    background-color: burlywood;
+    padding-top: 6px;
+}
+
+.section-2 {
+    background-color: bisque;
+    padding-top: 6px;
 }
 
 /* 
