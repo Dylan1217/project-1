@@ -7,6 +7,10 @@ body {
     font-size: 16px;
 }
 
+.glasses-cat {
+    width: 120px;
+}
+
 hr {
     height: 4px;
     background-color: aqua;
