@@ -5,17 +5,19 @@ body {
     /* font code for body text */
     font-family: "Montserrat", sans-serif;
     font-size: 16px;
+    background-color: black;
 }
 
 .glasses-cat {
     width: 120px;
 }
 
+/* unneeded, just changed background color instead
 hr {
-    height: 4px;
+     height: 4px; 
     background-color: rgb(35, 33, 23);
     border: none;
-}
+} */
 
 
 
@@ -30,13 +32,13 @@ h1, h2, h3, h4, h5, h6 {
     padding-top: 6px;
 }
 
-.section-3 {
-    background-color: burlywood;
+.section-2 {
+    background-color: bisque;
     padding-top: 6px;
 }
 
-.section-2 {
-    background-color: bisque;
+.section-3 {
+    background-color: burlywood;
     padding-top: 6px;
 }
 
