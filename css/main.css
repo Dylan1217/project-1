@@ -8,7 +8,19 @@ body {
     background-color: black;
 }
 
-.glasses-cat {
+.fastFood {
+    width: 200px;
+}
+
+.chickfila {
+    width: 120px;
+}
+
+.canes {
+    width: 120px;
+}
+
+.whataburger {
     width: 120px;
 }
 
@@ -25,6 +37,13 @@ h1, h2, h3, h4, h5, h6 {
     font-family: "Poiret One", sans-serif;
     font-weight: 1000;
     font-size: 40px;
+}
+
+/* overridding the h1 section since its the website header */
+h1 {
+    font-family: "Poiret One", sans-serif;
+    font-weight: 1000;
+    font-size: 60px;
 }
 
 .section-1 {
